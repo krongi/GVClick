@@ -7,3 +7,5 @@ On running the app it will ask you where the call button is and where the end bu
 This requires you be logged into GVoice on your PC and have the correct person highlighted in the browser. Whomever is highlight is who it calls
 
 Script can be stopped via ctrl-c
+
+Plan on creating a gui for this application at a later date. No eta as of yet
